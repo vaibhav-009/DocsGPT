@@ -185,3 +185,5 @@ We as members, contributors, and leaders, pledge to make participation in our co
 The source code license is [MIT](https://opensource.org/license/mit/), as described in the [LICENSE](LICENSE) file.
 
 Built with [🦜️🔗 LangChain](https://github.com/hwchase17/langchain)
+
+<p align="right"><a href="#top"><img src="https://cdn-icons-png.flaticon.com/512/892/892692.png" height="50px"></a></p>
